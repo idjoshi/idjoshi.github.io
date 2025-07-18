@@ -1,10 +1,10 @@
 ---
 # This file now controls your homepage.
-# It tells the site to build a simple landing page that just shows your author profile.
+# We are creating a simple landing page that only shows your profile.
 type: landing
 
 sections:
-  - block: about.biography
+  - block: resume.biography-3  # <-- This is the corrected block name
     id: about
     content:
       # The username of the author to display (should match the folder name in content/authors/)
