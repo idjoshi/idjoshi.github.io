@@ -29,7 +29,7 @@ experience:
     location: Mumbai
     area: Mumbai  # <-- This is the required fix
     date_start: '2023-02-01'
-    date_end: ''
+    date_end: '2025-04-30'
     description: |
       CBS Science Club is a student organization that aims to foster a healthy environment for scientific discussions. My roles include:
       * Coordinating the planning and curation of sessions and talks with researchers.
