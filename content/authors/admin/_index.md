@@ -33,13 +33,13 @@ social:
     link: 'tel:+918650237076'
   # - icon: twitter
   #   icon_pack: fab
-  #   link: https://twitter.com/YourTwitter # Add your Twitter if you have one
-  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` pack
+  #   link: https://twitter.com/YourTwitter
+  # - icon: graduation-cap
   #   icon_pack: fas
-  #   link: https://scholar.google.com/ # Add your Google Scholar if you have one
+  #   link: https://scholar.google.com/
   # - icon: github
   #   icon_pack: fab
-  #   link: https://github.com/YourUsername # Add your GitHub if you have one
+  #   link: https://github.com/YourUsername
 
 education:
   courses:
@@ -89,8 +89,6 @@ skills:
         icon: wind
         icon_pack: fas
 
-# The following sections are from the original template, as requested.
-# You can edit or remove them later.
 languages:
   - name: English
     percent: 100
@@ -130,6 +128,7 @@ awards:
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-11-25'
     awarder: Coursera
+    area: Online
     icon: coursera
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
@@ -137,6 +136,7 @@ awards:
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
     awarder: edX
+    area: Online
     icon: edx
     summary: |
       Learned:
@@ -148,6 +148,7 @@ awards:
     certificate_url: https://www.datacamp.com
     date: '2023-01-21'
     awarder: datacamp
+    area: Online
     icon: datacamp
     summary: |
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
