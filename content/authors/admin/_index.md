@@ -45,9 +45,11 @@ education:
   courses:
     - course: Integrated M.Sc. in Physics
       institution: UM-DAE Centre for Excellence in Basic Sciences, Mumbai
+      area: Mumbai
       year: 2025 (Expected)
     - course: Senior Secondary School
       institution: Lakes International School, Bhimtal
+      area: Bhimtal
       year: 2019
 
 # Skills
@@ -102,6 +104,7 @@ work:
     company_name: GenCoin
     company_url: ''
     company_logo: ''
+    area: San Francisco, CA
     date_start: 2021-01-01
     date_end: ''
     summary: |2-
@@ -113,6 +116,7 @@ work:
     company_name: X
     company_url: ''
     company_logo: ''
+    area: New York, NY
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
