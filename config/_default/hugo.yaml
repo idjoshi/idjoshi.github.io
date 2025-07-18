@@ -1,4 +1,6 @@
-# The URL of your site.
+# config/_default/hugo.yaml
+
+# The URL of your site. This MUST be correct.
 baseURL: 'https://idjoshi.github.io/'
 
 # The name of your site.
@@ -9,10 +11,7 @@ theme:
   - github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind
 
 #############################
-# The KEY Configuration Change
-#############################
-# This tells Hugo to treat the page for the author 'admin' as the homepage.
-# This bypasses the entire 'blox' system that was causing all the errors.
+# This sets your CV page as the homepage.
 cascade:
   - _target:
       kind: page
