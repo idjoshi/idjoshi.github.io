@@ -1,8 +1,8 @@
-name: Deploy Hugo site to Pages
+name: Deploy Hugo site to GitHub Pages
 
 on:
   push:
-    branches: [main]  # Change to "master" if that's your default
+    branches: [main]
   workflow_dispatch:
 
 permissions:
@@ -10,14 +10,18 @@ permissions:
   pages: write
   id-token: write
 
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout source code
+      - name: Checkout source
         uses: actions/checkout@v4
         with:
-          submodules: true  # Ensures Hugo theme submodules (like academic-cv) are cloned
+          submodules: true  # Needed if you're using a theme as a submodule
           fetch-depth: 0
 
       - name: Setup Hugo
@@ -29,8 +33,8 @@ jobs:
       - name: Build site
         run: hugo --minify
 
-      - name: Upload pages artifact
-        uses: actions/upload-pages-artifact@v2
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
 
@@ -43,4 +47,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4
