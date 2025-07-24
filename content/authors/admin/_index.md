@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Masters Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -39,8 +39,8 @@ profiles:
 
 interests:
   - Ultrafast Optics
-  - Laser-Matter Interaction
   - Nonlinear Optics
+  - Laser-Matter Interaction
 
 education:
   - area: MSc Physics
@@ -63,17 +63,17 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+  # - area: BSc Artificial Intelligence
+  #  institution: Massachusetts Institute of Technology
+  #  date_start: 2016-01-01
+  #  date_end: 2020-12-31
+  #  summary: |
+  #    GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #    Courses included:
+  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -173,5 +173,5 @@ awards:
 ---
 
 ## About Me
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm currently a research intern at the Tata Institute of Fundamental Research [(TIFR) Mumbai]{https://main.tifr.res.in/}. My interests include ultrafast optics, nonlinear optics and laser-matter interaction.
+My recent activities with the [UPHILL]{https://www.tifr.res.in/~uphill/} group at TIFR include measerement of nonlinear optical response of materials using a new approach that acquires spatial phase of the beam as it crosses the sample. I have also been involved in experiments that use the same phase acquirement technique to capture [picosecond dynamics]{https://arxiv.org/abs/2505.02403} of laser-generated plasma mirrors.
