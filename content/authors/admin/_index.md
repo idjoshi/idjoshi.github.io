@@ -150,7 +150,8 @@ awards:
     date: '2024-12-09'
     awarder: IIT Jodhpur
     icon: 
-    summary: | Attended a one week school with lectures and tutorials on the basics of high harmonic generation, attosecond science,laser-driven particle acceleration, ultrafast dynamics of matter at high energy density and their application.
+    summary: |
+    Attended a one week school with lectures and tutorials on the basics of high harmonic generation, attosecond science,laser-driven particle acceleration, ultrafast dynamics of matter at high energy       density and their application.
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
