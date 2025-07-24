@@ -84,7 +84,7 @@ sections:
       filters:
         author: ""
         category: ""
-        tag: "CBS Science Club is a student organization that aims to foster a healthy environment for scientific discussions. I have the following roles:"
+        tag: "cbs-science-club"
         exclude_featured: false
         exclude_future: false
         exclude_past: false
