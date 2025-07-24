@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: static/uploads/resume.pdf
+        url: uploads/resume.pdf
     design:
       css_class: dark
       background:
@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 Research Interests'
       subtitle: ''
       text: |-
         My recent activities in the UPHILL group at TIFR include measurement of nonlinear optical response of materials using a new approach that acquires spatial phase of the beam as it crosses the sample. I have also been involved in experiments that use the same phase acquirement technique to capture picosecond dynamics of laser-generated plasma mirrors..
