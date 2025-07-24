@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: static/uploads/resume.pdf
     design:
       css_class: dark
       background:
@@ -87,7 +87,7 @@ sections:
       filters:
         author: ""
         category: ""
-        tag: ""
+        tag: ""CBS Science Club is a student organization that aims to foster a healthy environment for scientific discussions. I have the following roles:
         exclude_featured: false
         exclude_future: false
         exclude_past: false
