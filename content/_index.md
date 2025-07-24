@@ -35,11 +35,8 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My recent activities in the UPHILL group at TIFR include measurement of nonlinear optical response of materials using a new approach that acquires spatial phase of the beam as it crosses the sample. I have also been involved in experiments that use the same phase acquirement technique to capture picosecond dynamics of laser-generated plasma mirrors..
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection
@@ -87,7 +84,7 @@ sections:
       filters:
         author: ""
         category: ""
-        tag: ""CBS Science Club is a student organization that aims to foster a healthy environment for scientific discussions. I have the following roles:
+        tag: "CBS Science Club is a student organization that aims to foster a healthy environment for scientific discussions. I have the following roles:"
         exclude_featured: false
         exclude_future: false
         exclude_past: false
