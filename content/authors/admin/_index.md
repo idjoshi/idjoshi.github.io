@@ -145,13 +145,12 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+  - title: Winter School on Intense Laser Science (WiSILS)
+    url: https://events.iitj.ac.in/wisils/
+    date: '2024-12-09'
+    awarder: IIT Jodhpur
+    icon: 
+    summary: | Attended a one week school with lectures and tutorials on the basics of high harmonic generation, attosecond science,laser-driven particle acceleration, ultrafast dynamics of matter at high energy density and their application.
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
@@ -173,5 +172,6 @@ awards:
 ---
 
 ## About Me
-I'm currently a research intern at the Tata Institute of Fundamental Research [(TIFR) Mumbai]{https://main.tifr.res.in/}. My interests include ultrafast optics, nonlinear optics and laser-matter interaction.
-My recent activities with the [UPHILL]{https://www.tifr.res.in/~uphill/} group at TIFR include measerement of nonlinear optical response of materials using a new approach that acquires spatial phase of the beam as it crosses the sample. I have also been involved in experiments that use the same phase acquirement technique to capture [picosecond dynamics]{https://arxiv.org/abs/2505.02403} of laser-generated plasma mirrors.
+I'm currently a research intern at the Tata Institute of Fundamental Research ([TIFR) Mumbai](https://main.tifr.res.in/). My interests include ultrafast optics, nonlinear optics and laser-matter interaction.  
+My recent activities with the [UPHILL](https://www.tifr.res.in/~uphill/) group at TIFR include measurement of nonlinear optical response of materials using a new approach that acquires spatial phase of the beam as it crosses the sample. I have also been involved in experiments that use the same phase acquirement technique to capture [picosecond dynamics](https://arxiv.org/abs/2505.02403) of laser-generated plasma mirrors.
+
