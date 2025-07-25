@@ -52,30 +52,30 @@ education:
     date_start: 2023-08-01
     date_end: 2025-05-31
     summary: |-
-      Thesis on _Ultrafast Diagnostics of Laser-Generated Plasma_. Supervised by [Prof G Ravindra Kumar](https://scholar.google.co.in/citations?user=Uk_QK0cAAAAJ&hl=en&oi=ao). 
+      Courses included:
+        - Femtoseconds and Attoseconds (Ultrafast Optics)
+        - Modern Trends in Optics (Scattering and Meta-materials discussed)
+        - Quantum Optics
+        - Electrodynamics II
+
+      Thesis on _Ultrafast Diagnostics of Laser-generated Plasma_.  
+      Supervised by [Prof G Ravindra Kumar](https://scholar.google.co.in/citations?user=Uk_QK0cAAAAJ&hl=en&oi=ao).
     button:
       text: 'Read Thesis'
       url: 'https://mega.nz/file/JOggTDQI#wx5WPVGnSlH-msOGl0mfKO3RyEzh4d-BI0sFr1q55c8'
-      
 
-      Courses included:
-      - Femtoseconds and Attoseconds (Ultrafast Optics)
-      - Modern Trends in Optics (Scattering and Meta-materials discussed)
-      - Quantum Optics
-      - Electrodynamics II
-      
-      
   - area: BSc Physics
     institution: UM-DAE CEBS, Mumbai
     date_start: 2020-12-01
     date_end: 2023-05-31
-    summary: |
+    summary: |-
       Bachelors degree in Physics
 
       Courses included:
-      - Electrtodynamics I
-      - Optics and Special Relativity
-      - Quantum MEchanics I & II
+        - Electrodynamics I
+        - Optics and Special Relativity
+        - Quantum Mechanics I & II
+
   # - area: BSc Artificial Intelligence
   #  institution: Massachusetts Institute of Technology
   #  date_start: 2016-01-01
