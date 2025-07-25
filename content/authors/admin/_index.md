@@ -49,15 +49,18 @@ education:
     date_start: 2023-08-01
     date_end: 2025-05-31
     summary: |-
+      Thesis on _Ultrafast Diagnostics of Laser-Generated Plasma_. Supervised by [Prof G Ravindra Kumar](https://scholar.google.co.in/citations?user=Uk_QK0cAAAAJ&hl=en&oi=ao). 
+    button:
+      text: 'Read Thesis'
+      url: 'https://mega.nz/file/JOggTDQI#wx5WPVGnSlH-msOGl0mfKO3RyEzh4d-BI0sFr1q55c8'
+      
+
       Courses included:
       - Femtoseconds and Attoseconds (Ultrafast Optics)
       - Modern Trends in Optics (Scattering and Meta-materials discussed)
       - Quantum Optics
       - Electrodynamics II
-      Thesis on _Ultrafast Diagnostics of Laser-generated Plasma_. Supervised by [Prof G Ravindra Kumar](https://scholar.google.co.in/citations?user=Uk_QK0cAAAAJ&hl=en&oi=ao). 
-    button:
-      text: 'Read Thesis'
-      url: 'https://mega.nz/file/JOggTDQI#wx5WPVGnSlH-msOGl0mfKO3RyEzh4d-BI0sFr1q55c8'
+      
       
   - area: BSc Physics
     institution: UM-DAE CEBS, Mumbai
@@ -65,6 +68,7 @@ education:
     date_end: 2023-05-31
     summary: |
       Bachelors degree in Physics
+
       Courses included:
       - Electrtodynamics I
       - Optics and Special Relativity
@@ -153,5 +157,6 @@ awards:
 ## About Me
 I'm currently a research intern at the Tata Institute of Fundamental Research [(TIFR) Mumbai](https://main.tifr.res.in/). My interests include ultrafast and nonlinear optics and laser-matter interaction.
 
-My recent activities with the [UPHILL](https://www.tifr.res.in/~uphill/) group at TIFR include measurement of nonlinear optical response of materials using a new approach that acquires the 2-dimensional phase of the beam as it crosses the sample. I have also been involved in experiments that use the same phase acquirement technique to capture [picosecond dynamics](https://arxiv.org/abs/2505.02403) of laser-generated plasma mirrors.
+
+My recent activities in the [UPHILL](https://www.tifr.res.in/~uphill/) group at TIFR include measurement of nonlinear optical response of materials using a new approach that acquires the 2-dimensional phase of the beam as it crosses the sample. I have also been involved in experiments that use the same phase acquirement technique to capture [picosecond dynamics](https://arxiv.org/abs/2505.02403) of laser-generated plasma mirrors.
 
