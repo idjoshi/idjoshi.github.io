@@ -27,6 +27,9 @@ organizations:
   - name: UM-DAE CEBS
     url: https://cbs.ac.in/
 
+# Add this line below:
+defer: false
+
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
