@@ -3,6 +3,9 @@
   #     desired widget in your `content/home/` folder.
   #   The weight parameter defines the order that the links will appear in.
 
+# Required key to prevent theme error
+Defer: false
+
 main:
   - name: About
     url: /
