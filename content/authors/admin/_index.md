@@ -59,7 +59,7 @@ education:
       Supervised by [Prof G Ravindra Kumar](https://scholar.google.co.in/citations?user=Uk_QK0cAAAAJ&hl=en&oi=ao).
     button:
       text: 'Read Thesis'
-      url: 'uploads/PPr901-varun'
+      url: 'uploads/PPr901-varun.pdf'
 # https://mega.nz/file/JOggTDQI#wx5WPVGnSlH-msOGl0mfKO3RyEzh4d-BI0sFr1q55c8
   - area: BSc Physics
     institution: UM-DAE CEBS, Mumbai
