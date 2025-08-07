@@ -1,6 +1,6 @@
 ---
 title: 'Mapping critical density surface of plasma mirrors by wavefront sensing'
-date: 2025-05-26
+date: 2025-05-02
 external_link: '/uploads/PPr1001-varun.pdf'
 tags:
   - Ultrafast Optics
